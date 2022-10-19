@@ -1,7 +1,7 @@
 {
-	"name": "vardastafir",
-	"short_name": "vardastafir",
-	"description": "Tame your fears with symbols",
+	"name": "VardaStafir",
+	"short_name": "VardaStafir",
+	"description": "Full - HD",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
